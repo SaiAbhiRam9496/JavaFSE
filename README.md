@@ -1,15 +1,20 @@
-Yadlapalli Sai AbhiRam. 
+# Training Progress
 
-Week 1: Design Patterns and Principles
-        Algorithms Data Structures
-        PL/SQL Programming
+Yadlapalli Sai AbhiRam
 
-Completed on 25 June 2026 
+Week 1:
+Design Patterns and Principles
+Algorithms and Data Structures
+PL/SQL Programming
 
-Week 2: JUnit, Mockito and SLF4J
-        Spring Core and Maven
-        Spring Data JPA with Spring Boot, Hibernate
+Completed on: 25 June 2026
 
-Completed on 
+Week 2:
+JUnit,Mockito and SLF4J
+Spring Core and Maven
+Spring Data JPA with Spring Boot,Hibernate
 
-Week 3: 
+Completed on: 30 June 2026
+
+Week 3:
+(To be updated)
