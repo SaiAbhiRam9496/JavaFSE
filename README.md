@@ -7,6 +7,8 @@
 
 ## Week-wise Topics
 
+![Training Progress](image.png)
+
 ### Week 1
 - Design Patterns and Principles
 - Algorithms and Data Structures
